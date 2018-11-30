@@ -56,7 +56,7 @@ xp: 50
 
 ---
 
-## Insert exercise title here
+## Testing in Python
 
 ```yaml
 type: VideoExercise
