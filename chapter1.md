@@ -56,7 +56,7 @@ xp: 50
 
 ---
 
-## Testing in Python
+## Common Tests
 
 ```yaml
 type: VideoExercise
